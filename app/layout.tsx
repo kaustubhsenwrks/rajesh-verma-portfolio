@@ -9,7 +9,7 @@ import "./globals.css"
 export const metadata = {
   title: "Rajesh Verma | Health & Wellness Consultant, Business Mentor",
   description:
-    "Official portfolio of Rajesh Verma — Health & Wellness Consultant, Business Mentor, and STC Leader at MI Lifestyle. Book a session, order MI Lifestyle medicines, or get business mentoring.",
+    "Rajesh Verma — Health & Wellness Consultant, Business Mentor, and STC Leader at MI Lifestyle. Book a session, order MI Lifestyle medicines, or get business mentoring.",
   keywords: [
     "Rajesh Verma",
     "kaustubh sen",
