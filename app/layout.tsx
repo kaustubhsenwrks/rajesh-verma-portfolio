@@ -47,7 +47,11 @@ export const metadata = {
     description:
       "Book sessions, order medicines, or get business mentoring from Rajesh Verma — STC Leader at MI Lifestyle.",
     images: ["/rajesh_verma.jpg"],
-    site: "@YourTwitterHandle", // optional
+    site: "@YourTwitterHandle",
+  },
+  // Add Google Verification here
+  other: {
+    "google-site-verification": "google-site-verification=Hei6qKOu1Xj4Q9z-0WKOmusNAnU-q-oPhSc70MpdGWk",
   },
 }
 

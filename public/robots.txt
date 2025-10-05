@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rajesh-verma-portfolio.vercel.app
+
+# Sitemaps
+Sitemap: https://rajesh-verma-portfolio.vercel.app/sitemap.xml
