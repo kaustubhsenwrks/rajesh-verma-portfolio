@@ -28,7 +28,7 @@ export default function HomePage() {
         {JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Person",
-          name: "Rajesh Verma",
+          name: "Rajesh Verma MI",
           url: "https://rajesh-verma-portfolio.vercel.app",
           image: "https://rajesh-verma-portfolio.vercel.app/rajesh_verma.jpg",
           jobTitle: "Health & Wellness Consultant, Business Mentor",
@@ -38,7 +38,7 @@ export default function HomePage() {
           },
           sameAs: [
             "https://www.instagram.com/rajeshverma503/",
-            "https://www.linkedin.com/in/rajeshverma/",
+            "https://www.linkedin.com/in/rajesh-verma-5a3b99314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
           ],
         })}
       </Script>

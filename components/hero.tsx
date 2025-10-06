@@ -33,10 +33,10 @@ export function Hero({ onPrimaryCta }: Props) {
           className="mt-6"
           links={{
             instagram: "https://www.instagram.com/rajeshverma503/", // TODO: replace with Instagram profile
-            linkedin: "#", // TODO: replace with LinkedIn profile
+            linkedin: "https://www.linkedin.com/in/rajesh-verma-5a3b99314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", // TODO: replace with LinkedIn profile
             twitter: "#", // TODO: replace with X/Twitter profile
-            youtube: "#", // TODO: replace with YouTube channel
-            facebook: "#", // TODO: replace with Facebook profile
+            youtube: "https://www.youtube.com/@RajeshVermaMI-STCSP", // TODO: replace with YouTube channel
+            facebook: "https://www.facebook.com/rajesh.verma.28958", // TODO: replace with Facebook profile
           }}
         />
       </div>
@@ -44,7 +44,7 @@ export function Hero({ onPrimaryCta }: Props) {
       <div className="mx-auto w-full max-w-sm">
         <img
           src="/rajesh_verma.jpg"
-          alt="Portrait of Rajesh Verma"
+          alt="Rajesh Verma MI"
           className="aspect-square w-full rounded-xl border object-cover"
         />
         <p className="sr-only">Rajesh Verma portrait</p>

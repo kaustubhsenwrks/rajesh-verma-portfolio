@@ -11,6 +11,7 @@ export const metadata = {
   description:
     "Rajesh Verma — Health & Wellness Consultant, Business Mentor, and STC Leader at MI Lifestyle. Book a session, order MI Lifestyle medicines, or get business mentoring.",
   keywords: [
+    "Rajesh Verma MI",
     "Rajesh Verma",
     "kaustubh sen",
     "pradeep pandey",
@@ -29,13 +30,13 @@ export const metadata = {
     description:
       "Book sessions, order medicines, or get personalized business mentoring from Rajesh Verma — STC Leader at MI Lifestyle.",
     url: "https://rajesh-verma-portfolio.vercel.app/",
-    siteName: "Rajesh Verma",
+    siteName: "Rajesh Verma MI",
     images: [
       {
         url: "/rajesh_verma.jpg",
         width: 800,
         height: 600,
-        alt: "Rajesh Verma",
+        alt: "Rajesh Verma MI",
       },
     ],
     locale: "en_US",
@@ -43,11 +44,11 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rajesh Verma | Health & Wellness Consultant",
+    title: "Rajesh Verma MI | Health & Wellness Consultant",
     description:
       "Book sessions, order medicines, or get business mentoring from Rajesh Verma — STC Leader at MI Lifestyle.",
     images: ["/rajesh_verma.jpg"],
-    site: "@YourTwitterHandle",
+    site: "https://www.linkedin.com/in/rajesh-verma-5a3b99314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   // Add Google Verification here
   other: {
