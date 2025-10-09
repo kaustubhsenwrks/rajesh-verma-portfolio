@@ -62,6 +62,17 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
+    const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: "Rajesh Verma",
+    url: "https://rajesh-verma-portfolio.vercel.app/",
+    jobTitle: "Health & Wellness Consultant",
+    sameAs: [
+      "https://www.linkedin.com/in/rajeshverma/",
+      "https://instagram.com/rajeshverma",
+    ],
+  };
   return (
     <html lang="en">
       <body className={`antialiased font-sans ${GeistSans.variable} ${GeistMono.variable}`}>

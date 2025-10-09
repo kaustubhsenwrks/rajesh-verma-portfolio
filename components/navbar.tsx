@@ -59,9 +59,6 @@ export function Navbar({ onBook }: Props) {
               Book Now
             </button>
           </li>
-          <li>
-            <ThemeToggle />
-          </li>
         </ul>
 
         {/* Mobile menu */}
